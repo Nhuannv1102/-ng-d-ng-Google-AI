@@ -1,0 +1,5 @@
+{
+  "name": "AI Poster Generator",
+  "description": "An application to generate professional and impressive posters in seconds. Just describe the content, choose a style, and let AI do the rest.",
+  "requestFramePermissions": []
+}
